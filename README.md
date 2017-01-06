@@ -1,2 +1,5 @@
 # compareip2
-compare two csv dataset from Integrated Proteomics Pipeline
+compare two to three csv dataset from Integrated Proteomics Pipeline
+
+python 3.0 (windows) (Anaconda installation all packages)
+
